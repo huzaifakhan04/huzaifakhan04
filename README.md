@@ -79,11 +79,11 @@ With my keen eye for detail and analytical mindset, I thrive in finding creative
 
 <br>
 
-<img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=huzaifakhan04&screen_effect=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF&hide=avatar" alt="huzaifakhan04's Stats">
+<img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=huzaifakhan04&include_all_commits=true&pixelate_avatar=false&theme=road_trip&theme=road_trip&color=%23ffffffFF" alt="huzaifakhan04's Stats">
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifakhan04&theme=blueberry&hide_border=true" alt="huzaifakhan04's Streak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakhan04&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="huzaifakhan04's Top Languages">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifakhan04&theme=gruvbox&hide_border=true" alt="huzaifakhan04's Streak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakhan04&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="huzaifakhan04's Top Languages">
 </div>
 
 <br>
