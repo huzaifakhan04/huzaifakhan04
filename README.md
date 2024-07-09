@@ -1,8 +1,6 @@
 <img src="https://github.com/huzaifakhan04/huzaifakhan04/blob/main/header-image.png" alt="Header Image" style="width: 100%; height: auto; display: block;">
 
-I'm a 20-year-old data science aficionado hailing from the vibrant city of Islamabad, Pakistan. 🌆 Armed with a love for all things data and artificial intelligence, I'm on a mission to conquer the world of analytics with my scientific prowess. 👨🏼‍💻
-
-With my keen eye for detail and analytical mindset, I thrive in finding creative solutions to complex problems. 🕵🏼‍♂️ Previously, I delved into the captivating realm of UX (user experience) research as an intern at Telenor Microfinance Bank Limited, unravelling the secrets behind user experiences. 📲
+I'm a 21-year-old data science aficionado hailing from the vibrant city of Islamabad, Pakistan. 🌆 Armed with a love for all things data and artificial intelligence, I'm on a mission to conquer the world of analytics with my scientific prowess. 👨🏼‍💻
 
 <br>  
 
