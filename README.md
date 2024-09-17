@@ -86,16 +86,6 @@ I'm a 21-year-old data science aficionado hailing from the vibrant city of Islam
 
 <br>
 
-## 🎵 Grooving To:
-
-<br>
-
-<div align="center">
-    <img src=https://spotify-github-profile.vercel.app/api/view?uid=q0xunn0htcer7be481w7te1t1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true>
-</div>
-
-<br>
-
 ##
 
 <br>
