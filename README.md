@@ -1,6 +1,6 @@
 <img src="https://github.com/huzaifakhan04/huzaifakhan04/blob/main/header-image.png" alt="Header Image" style="width: 100%; height: auto; display: block;">
 
-I'm a 21-year-old data science aficionado hailing from the vibrant city of Islamabad, Pakistan. 🌆 Armed with a love for all things data and artificial intelligence, I'm on a mission to conquer the world of analytics with my scientific prowess. 👨🏼‍💻
+I'm a 22-year-old data science aficionado hailing from the vibrant city of Islamabad, Pakistan. 🌆 Armed with a love for all things data and artificial intelligence, I'm on a mission to conquer the world of analytics with my scientific prowess. 👨🏼‍💻
 
 <br>  
 
