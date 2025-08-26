@@ -1,6 +1,8 @@
 <img src="https://github.com/huzaifakhan04/huzaifakhan04/blob/main/header-image.png" alt="Header Image" style="width: 100%; height: auto; display: block;">
 
-1x founder with 4+ years of experience in AI, product, research, and tech across SMEs in the US, UAE, and Pakistan. 🚀 Data Science grad, 5x High Honours, 2x top of class (top 5%). 🎓 Top 10 finalist in Google's APAC Solution Challenge 2025. 🌏 8x national and international hackathon winner. 🏆
+1x founder with 4+ years of experience in AI, product, research, and tech across SMEs in the US, UAE, and Pakistan. Data Science grad, 5x Dean's List of Honours, 2x top of class.
+
+I love building, breaking, and rebuilding. Explorer of knowledge. Problem-solver at heart. Helping others grow drives me, and challenges fuel me.
 
 <br>  
 
