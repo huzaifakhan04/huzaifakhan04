@@ -2,7 +2,15 @@
 
 1x founder with 4+ years of experience in AI, product, research, and tech across SMEs in the US, UAE, and Pakistan. Data Science grad, 5x Dean's List of Honours, 2x top of class.
 
+Launched 5x 0 → 1 SaaS products in HRTech, EdTech, and MarTech. Now leading GenAI innovation in FinTech with one of Asia's top digital banks.
+
+Fractional Chief Technology Officer at [CMOontheGO](https://cmoonthego.ai/), a multi-agent AI that runs marketing strategy and optimisation at 1/10th the cost of a human CMO.
+
+Volunteering as an Officer for [IPP WORLD](https://ippus.org/), an NPO that funds Pakistani for-profit social ventures (up to $20K non-dilutive) to create jobs.
+
 I love building, breaking, and rebuilding. Explorer of knowledge. Problem-solver at heart. Helping others grow drives me, and challenges fuel me.
+
+Fun facts: I'm not a fan of chocolate, I think Stranger Things is overrated, and I absolutely love pineapple on pizza.
 
 <br>  
 
