@@ -10,6 +10,12 @@ Volunteering as an Officer for [IPP WORLD](https://ippus.org/), an NPO that fund
 
 I love building, breaking, and rebuilding. Explorer of knowledge. Problem-solver at heart. Helping others grow drives me, and challenges fuel me.
 
+I post about tech, startups, and life, too:
+
+🔗 Instagram: https://www.instagram.com/huzaifa.gguf/
+
+🔗 TikTok: https://www.tiktok.com/@huzaifa.gguf
+
 Fun facts: I'm not a fan of chocolate, I think Stranger Things is overrated, and I absolutely love pineapple on pizza.
 
 <br>  
