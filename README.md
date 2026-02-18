@@ -2,7 +2,7 @@
 
 1x founder with 4+ years of experience in AI, product, research, and tech across SMEs in the US, UAE, and Pakistan. Data Science grad, 5x Dean's List of Honours, 2x top of class.
 
-Launched 5x 0 → 1 SaaS products in HRTech, EdTech, and MarTech. Now leading GenAI innovation in FinTech with one of Asia's top digital banks.
+Launched 6x 0 → 1 SaaS products in HRTech, EdTech, MarTech, and AgTech. Now leading tech consulting for Fortune 100 firms at a boutique management consultancy in the US.
 
 Fractional Chief Technology Officer at [CMOontheGO](https://cmoonthego.ai/), a multi-agent AI that runs marketing strategy and optimisation at 1/10th the cost of a human CMO.
 
