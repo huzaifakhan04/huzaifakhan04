@@ -1,4 +1,4 @@
-1x founder with 4+ years of experience in AI, product, research, and tech across SMEs in the US, UAE, and Pakistan. Data Science grad, 5x Dean's List of Honours, 2x top of class.
+1x founder with 4+ years of experience in AI, product, research, and tech across SMEs in the US, Canada, UAE, and Pakistan. Data Science grad, 5x Dean's List of Honours, 2x top of class.
 
 Launched 6x 0 → 1 SaaS products in HRTech, EdTech, MarTech, and AgTech. Now leading tech consulting for Fortune 100 firms at [Avirso](https://avirso.com/), a boutique management consultancy in the US.
 
