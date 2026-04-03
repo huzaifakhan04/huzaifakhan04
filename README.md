@@ -1,28 +1,32 @@
-1x founder with 4+ years of experience in AI, product, research, and tech across SMEs in the US, Canada, UAE, and Pakistan. Data Science grad, 5x Dean's List of Honours, 2x top of class.
+1x founder with 4+ years of experience in AI, product, research, and tech across SMEs in the US, Canada, UAE, and Pakistan. Data Science grad, 5x Dean's List of Honors, 2x top of class.
 
 Launched 6x 0 → 1 SaaS products in HRTech, EdTech, MarTech, and AgTech. Now leading tech consulting for Fortune 100 firms at [Avirso](https://avirso.com/), a boutique management consultancy in the US.
 
-Fractional Chief Technology Officer at [CMOontheGO](https://cmoonthego.ai/), a multi-agent AI that runs marketing strategy and optimisation at 1/10th the cost of a human CMO.
-
-Volunteering as an Officer for [IPP WORLD](https://ippus.org/), an NPO that funds Pakistani for-profit social ventures (up to $20K non-dilutive) to create jobs.
+Google's top 10 AI innovator in APAC, 2025 (3,300+ submissions, 13 countries). 9x hackathon wins in AI. Awards from Google, Huawei, Hult Prize Foundation/EF, Vyro, and more.
 
 I love building, breaking, and rebuilding. Explorer of knowledge. Problem-solver at heart. Helping others grow drives me, and challenges fuel me.
 
 Cool stuff I've built:
 
-➡️ Fastrack (own startup, Meta + T-Mobile exec-backed): First agentic AI hiring manager automating sourcing, shortlisting, outreach, scheduling, and ATS at scale. See it here: https://fastrack.work/
+➡️ Fastrack (own startup, Meta + T-Mobile exec-backed): First agentic AI hiring manager automating sourcing, shortlisting, outreach, scheduling, and ATS at scale. See it here: [https://fastrack.work/](https://fastrack.work/)
 
-➡️ CattleOS (Antler-backed, $5M valuation): Voice-first agentic AI operating + intelligence layer for cattle management. See it here: https://cattleos.com/
+➡️ CattleOS (Antler-backed, $5M valuation): Voice-first agentic AI operating + intelligence layer for cattle management. See it here: [https://cattleos.com/](https://cattleos.com/)
 
-➡️ Vocalink (Top 10, Google APAC Solution Challenge 2025): Faster, lower-WER Whispr Flow alternative for Windows (before theirs) + Android, using a first-of-its-kind MoE architecture for real-time voice AI. See it here: https://youtu.be/2EHemNhCX64
+➡️ Vocalink (Top 10, Google APAC Solution Challenge 2025): Faster, lower-WER Whispr Flow alternative for Windows (before theirs) + Android, using a first-of-its-kind MoE architecture for real-time voice AI. See it here: [https://youtu.be/2EHemNhCX64](https://youtu.be/2EHemNhCX64)
 
-➡️ Marvel AI ($40K exit to App Academy): Open-source AI teaching assistant with 1K+ contributors. See it here: https://github.com/vibing-ai/marvel-ai-backend
+➡️ Marvel AI ($40K exit to App Academy): Open-source AI teaching assistant with 1K+ contributors. See it here: [https://github.com/vibing-ai/marvel-ai-backend](https://github.com/vibing-ai/marvel-ai-backend)
+
+Not on the resume:
+
+➡️ Pakistan's only selected volunteer at FIFA World Cup 2026, Levi's Stadium, San Francisco, out of 1M+ global candidates.
+
+➡️ Officer at [IPP WORLD](https://ippus.org/), an NPO that funds Pakistani for-profit social ventures (up to $20K non-dilutive) to create jobs.
 
 I post about tech, startups, and life, too:
 
-🔗 Instagram: https://www.instagram.com/huzaifa.gguf/
+🔗 Instagram: [https://www.instagram.com/huzaifa.gguf/](https://www.instagram.com/huzaifa.gguf/)
 
-🔗 TikTok: https://www.tiktok.com/@huzaifa.gguf
+🔗 TikTok: [https://www.tiktok.com/@huzaifa.gguf](https://www.tiktok.com/@huzaifa.gguf)
 
 Fun facts: I'm not a fan of chocolate, I think Stranger Things is overrated, and I absolutely love pineapple on pizza.
 
