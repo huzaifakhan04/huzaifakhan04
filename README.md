@@ -12,7 +12,7 @@ Cool stuff I've built:
 
 ➡️ CattleOS (Antler-backed, $5M valuation): Voice-first agentic AI operating + intelligence layer for cattle management. See it here: [https://cattleos.com/](https://cattleos.com/)
 
-➡️ Vocalink (Top 10, Google APAC Solution Challenge 2025): Faster, lower-WER Whispr Flow alternative for Windows (before theirs) + Android, using a first-of-its-kind MoE architecture for real-time voice AI. See it here: [https://youtu.be/2EHemNhCX64](https://youtu.be/2EHemNhCX64)
+➡️ Vocalink (Top 10, Google APAC Solution Challenge 2025): Faster, lower-WER Wispr Flow alternative for Windows (before theirs) + Android, using a first-of-its-kind MoE architecture for real-time voice AI. See it here: [https://youtu.be/2EHemNhCX64](https://youtu.be/2EHemNhCX64)
 
 ➡️ Marvel AI ($40K exit to App Academy): Open-source AI teaching assistant with 1K+ contributors. See it here: [https://github.com/vibing-ai/marvel-ai-backend](https://github.com/vibing-ai/marvel-ai-backend)
 
