@@ -2,31 +2,33 @@
 
 Launched 6x 0 → 1 SaaS products in FinTech, GovTech, EdTech, HRTech, MarTech, and AgTech. Currently growing [Comebck](https://www.comebck.dev/) across APAC, an EdTech venture turning thinkers into doers for the AI economy.
 
-Google's top 10 AI innovator in APAC, 2025 (3,300+ submissions, 13 countries). 9x hackathon wins in AI. Awards from Google, Huawei, Hult Prize Foundation/EF, Vyro, and more.
+Google's top 10 AI innovator in APAC, 2025 (3,300+ submissions, 13 countries). 9x hackathon wins in AI. Awards from Google, Huawei, Hult Prize Foundation/EF, Vyro, and more.
 
 I love building, breaking, and rebuilding. Explorer of knowledge. Problem-solver at heart. Helping others grow drives me, and challenges fuel me.
 
 Cool stuff I've built:
 
-➡️ Fastrack (own startup, Meta + T-Mobile exec-backed): First agentic AI hiring manager automating sourcing, shortlisting, outreach, scheduling, and ATS at scale. See it here: [https://fastrack.work/](https://fastrack.work/)
+➡️ Fastrack (own startup, Meta + T-Mobile exec-backed): First agentic AI hiring manager automating sourcing, shortlisting, outreach, scheduling, and ATS at scale. See it here: https://youtu.be/94BjSubAV20
 
-➡️ CattleOS (Antler-backed, $5M valuation): Voice-first agentic AI operating + intelligence layer for cattle management. See it here: [https://cattleos.com/](https://cattleos.com/)
+➡️ CattleOS (Antler-backed, $5M valuation): Voice-first agentic AI operating + intelligence layer for cattle management. See it here: https://cattleos.com/
 
-➡️ Vocalink (Top 10, Google APAC Solution Challenge 2025): Faster, lower-WER Wispr Flow alternative for Windows (before theirs) + Android, using a first-of-its-kind MoE architecture for real-time voice AI. See it here: [https://youtu.be/2EHemNhCX64](https://youtu.be/2EHemNhCX64)
+➡️ Vocalink (Top 10, Google APAC Solution Challenge 2025): Faster, lower-WER Wispr Flow alternative for Windows (before theirs) + Android, using a first-of-its-kind MoE architecture for real-time voice AI. See it here: https://youtu.be/2EHemNhCX64
 
-➡️ Marvel AI ($40K exit to App Academy): Open-source AI teaching assistant with 1K+ contributors. See it here: [https://github.com/vibing-ai/marvel-ai-backend](https://github.com/vibing-ai/marvel-ai-backend)
+➡️ Marvel AI ($40K exit to App Academy): Open-source AI teaching assistant with 1K+ contributors. See it here: https://github.com/vibing-ai/marvel-ai-backend
 
 Not on the resume:
 
+➡️ Program Support Officer at IPP WORLD, an NPO that funds Pakistani for-profit social ventures (up to $20K non-dilutive) to create jobs.
+
+➡️ Contributed as a Judge to the Hult Prize Digital Incubator 2026, reviewing early-stage ventures for UN SDG alignment, innovation, impact, and scalability.
+
 ➡️ Pakistan's only selected volunteer at FIFA World Cup 2026, Levi's Stadium, San Francisco, out of 1M+ global candidates.
 
-➡️ Officer at [IPP WORLD](https://ippus.org/), an NPO that funds Pakistani for-profit social ventures (up to $20K non-dilutive) to create jobs.
+I also create content on tech, education, and startups (750K+ monthly views):
 
-I post about tech, startups, and life, too:
+🔗 Instagram: https://www.instagram.com/huzaifa.gguf/
 
-🔗 Instagram: [https://www.instagram.com/huzaifa.gguf/](https://www.instagram.com/huzaifa.gguf/)
-
-🔗 TikTok: [https://www.tiktok.com/@huzaifa.gguf](https://www.tiktok.com/@huzaifa.gguf)
+🔗 TikTok: https://www.tiktok.com/@huzaifa.gguf
 
 Fun facts: I'm not a fan of chocolate, I think Stranger Things is overrated, and I absolutely love pineapple on pizza.
 
